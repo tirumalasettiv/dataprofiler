@@ -7,7 +7,7 @@ import streamlit as st
 from ydata_profiling import ProfileReport
 from streamlit_ydata_profiling import st_profile_report
 
-
+st.title("Data Profiling Application")
 
 with st.sidebar:
     uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
