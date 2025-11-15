@@ -1,7 +1,8 @@
-numpy
-pandas
-scipy
-matplotlib
-streamlit
-ydata-profiling
-streamlit-pandas-profiling
+numpy>=2.1
+pandas>=2.3
+scipy>=1.15
+matplotlib>=3.10
+streamlit>=1.51
+ydata-profiling>=4.17
+streamlit-ydata-profiling>=0.2.0
+
